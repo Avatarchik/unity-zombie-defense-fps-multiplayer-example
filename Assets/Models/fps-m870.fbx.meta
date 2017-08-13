@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: f48579058d12bc643a315205eb10a8c4
+timeCreated: 1500211314
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FPSHand
+    100004: Gun
+    100006: hand_l
+    100008: hand_r
+    100010: Hands2
+    100012: ik_l_001
+    100014: ik_r_001
+    100016: index_01_l
+    100018: index_01_r
+    100020: index_02_l
+    100022: index_02_r
+    100024: index_03_l
+    100026: index_03_l_end
+    100028: index_03_r
+    100030: index_03_r_end
+    100032: InsertChamber
+    100034: InsertChamber_end
+    100036: lowerarm_l
+    100038: lowerarm_l_end
+    100040: lowerarm_r
+    100042: lowerarm_r_end
+    100044: M870
+    100046: middle_01_l
+    100048: middle_01_r
+    100050: middle_02_l
+    100052: middle_02_r
+    100054: middle_03_l
+    100056: middle_03_l_end
+    100058: middle_03_r
+    100060: middle_03_r_end
+    100062: pinky_01_l
+    100064: pinky_01_r
+    100066: pinky_02_l
+    100068: pinky_02_r
+    100070: pinky_03_l
+    100072: pinky_03_l_end
+    100074: pinky_03_r
+    100076: pinky_03_r_end
+    100078: ring_01_l
+    100080: ring_01_r
+    100082: ring_02_l
+    100084: ring_02_r
+    100086: ring_03_l
+    100088: ring_03_l_end
+    100090: ring_03_r
+    100092: ring_03_r_end
+    100094: Slide
+    100096: Slide_end
+    100098: thumb_01_l
+    100100: thumb_01_r
+    100102: thumb_02_l
+    100104: thumb_02_r
+    100106: thumb_03_l
+    100108: thumb_03_l_end
+    100110: thumb_03_r
+    100112: thumb_03_r_end
+    100114: Trigger
+    100116: Trigger_end
+    100118: upperarm_l
+    100120: upperarm_r
+    400000: //RootNode
+    400002: FPSHand
+    400004: Gun
+    400006: hand_l
+    400008: hand_r
+    400010: Hands2
+    400012: ik_l_001
+    400014: ik_r_001
+    400016: index_01_l
+    400018: index_01_r
+    400020: index_02_l
+    400022: index_02_r
+    400024: index_03_l
+    400026: index_03_l_end
+    400028: index_03_r
+    400030: index_03_r_end
+    400032: InsertChamber
+    400034: InsertChamber_end
+    400036: lowerarm_l
+    400038: lowerarm_l_end
+    400040: lowerarm_r
+    400042: lowerarm_r_end
+    400044: M870
+    400046: middle_01_l
+    400048: middle_01_r
+    400050: middle_02_l
+    400052: middle_02_r
+    400054: middle_03_l
+    400056: middle_03_l_end
+    400058: middle_03_r
+    400060: middle_03_r_end
+    400062: pinky_01_l
+    400064: pinky_01_r
+    400066: pinky_02_l
+    400068: pinky_02_r
+    400070: pinky_03_l
+    400072: pinky_03_l_end
+    400074: pinky_03_r
+    400076: pinky_03_r_end
+    400078: ring_01_l
+    400080: ring_01_r
+    400082: ring_02_l
+    400084: ring_02_r
+    400086: ring_03_l
+    400088: ring_03_l_end
+    400090: ring_03_r
+    400092: ring_03_r_end
+    400094: Slide
+    400096: Slide_end
+    400098: thumb_01_l
+    400100: thumb_01_r
+    400102: thumb_02_l
+    400104: thumb_02_r
+    400106: thumb_03_l
+    400108: thumb_03_l_end
+    400110: thumb_03_r
+    400112: thumb_03_r_end
+    400114: Trigger
+    400116: Trigger_end
+    400118: upperarm_l
+    400120: upperarm_r
+    4300000: M870
+    4300002: Hands2
+    7400000: FPSHand|Default
+    7400002: FPSHand|Draw
+    7400004: FPSHand|Fire
+    7400006: FPSHand|ReloadEnd
+    7400008: FPSHand|ReloadInsert
+    7400010: FPSHand|ReloadStart
+    7400012: FPSHand|ReloadStartEmpty
+    7400014: FPSHand|Stand
+    9500000: //RootNode
+    13700000: Hands2
+    13700002: M870
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: FPSHand|Default
+      takeName: FPSHand|Default
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FPSHand
+        weight: 1
+      - path: FPSHand/Gun
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber/InsertChamber_end
+        weight: 1
+      - path: FPSHand/Gun/Slide
+        weight: 1
+      - path: FPSHand/Gun/Slide/Slide_end
+        weight: 1
+      - path: FPSHand/ik_l_001
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l/index_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l/middle_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l/pinky_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l/ring_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l/thumb_03_l_end
+        weight: 1
+      - path: FPSHand/ik_r_001
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r/index_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r/middle_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r/pinky_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r/ring_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r/thumb_03_r_end
+        weight: 1
+      - path: FPSHand/Trigger
+        weight: 1
+      - path: FPSHand/Trigger/Trigger_end
+        weight: 1
+      - path: FPSHand/upperarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l/lowerarm_l_end
+        weight: 1
+      - path: FPSHand/upperarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r/lowerarm_r_end
+        weight: 1
+      - path: Hands2
+        weight: 1
+      - path: M870
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FPSHand|Draw
+      takeName: FPSHand|Draw
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.43360552
+        functionName: OnPump
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FPSHand
+        weight: 1
+      - path: FPSHand/Gun
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber/InsertChamber_end
+        weight: 1
+      - path: FPSHand/Gun/Slide
+        weight: 1
+      - path: FPSHand/Gun/Slide/Slide_end
+        weight: 1
+      - path: FPSHand/ik_l_001
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l/index_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l/middle_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l/pinky_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l/ring_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l/thumb_03_l_end
+        weight: 1
+      - path: FPSHand/ik_r_001
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r/index_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r/middle_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r/pinky_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r/ring_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r/thumb_03_r_end
+        weight: 1
+      - path: FPSHand/Trigger
+        weight: 1
+      - path: FPSHand/Trigger/Trigger_end
+        weight: 1
+      - path: FPSHand/upperarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l/lowerarm_l_end
+        weight: 1
+      - path: FPSHand/upperarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r/lowerarm_r_end
+        weight: 1
+      - path: Hands2
+        weight: 1
+      - path: M870
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FPSHand|Fire
+      takeName: FPSHand|Fire
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.50548637
+        functionName: OnPump
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5692308
+        functionName: OnCaseOut
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FPSHand
+        weight: 1
+      - path: FPSHand/Gun
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber/InsertChamber_end
+        weight: 1
+      - path: FPSHand/Gun/Slide
+        weight: 1
+      - path: FPSHand/Gun/Slide/Slide_end
+        weight: 1
+      - path: FPSHand/ik_l_001
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l/index_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l/middle_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l/pinky_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l/ring_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l/thumb_03_l_end
+        weight: 1
+      - path: FPSHand/ik_r_001
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r/index_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r/middle_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r/pinky_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r/ring_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r/thumb_03_r_end
+        weight: 1
+      - path: FPSHand/Trigger
+        weight: 1
+      - path: FPSHand/Trigger/Trigger_end
+        weight: 1
+      - path: FPSHand/upperarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l/lowerarm_l_end
+        weight: 1
+      - path: FPSHand/upperarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r/lowerarm_r_end
+        weight: 1
+      - path: Hands2
+        weight: 1
+      - path: M870
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FPSHand|ReloadEnd
+      takeName: FPSHand|ReloadEnd
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: OnReloadEnd
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FPSHand
+        weight: 1
+      - path: FPSHand/Gun
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber/InsertChamber_end
+        weight: 1
+      - path: FPSHand/Gun/Slide
+        weight: 1
+      - path: FPSHand/Gun/Slide/Slide_end
+        weight: 1
+      - path: FPSHand/ik_l_001
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l/index_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l/middle_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l/pinky_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l/ring_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l/thumb_03_l_end
+        weight: 1
+      - path: FPSHand/ik_r_001
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r/index_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r/middle_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r/pinky_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r/ring_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r/thumb_03_r_end
+        weight: 1
+      - path: FPSHand/Trigger
+        weight: 1
+      - path: FPSHand/Trigger/Trigger_end
+        weight: 1
+      - path: FPSHand/upperarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l/lowerarm_l_end
+        weight: 1
+      - path: FPSHand/upperarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r/lowerarm_r_end
+        weight: 1
+      - path: Hands2
+        weight: 1
+      - path: M870
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FPSHand|ReloadInsert
+      takeName: FPSHand|ReloadInsert
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.3820513
+        functionName: OnAmmoInsertion
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: OnAfterInsert
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: OnBeforeInsert
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FPSHand
+        weight: 1
+      - path: FPSHand/Gun
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber/InsertChamber_end
+        weight: 1
+      - path: FPSHand/Gun/Slide
+        weight: 1
+      - path: FPSHand/Gun/Slide/Slide_end
+        weight: 1
+      - path: FPSHand/ik_l_001
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l/index_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l/middle_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l/pinky_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l/ring_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l/thumb_03_l_end
+        weight: 1
+      - path: FPSHand/ik_r_001
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r/index_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r/middle_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r/pinky_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r/ring_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r/thumb_03_r_end
+        weight: 1
+      - path: FPSHand/Trigger
+        weight: 1
+      - path: FPSHand/Trigger/Trigger_end
+        weight: 1
+      - path: FPSHand/upperarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l/lowerarm_l_end
+        weight: 1
+      - path: FPSHand/upperarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r/lowerarm_r_end
+        weight: 1
+      - path: Hands2
+        weight: 1
+      - path: M870
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FPSHand|ReloadStart
+      takeName: FPSHand|ReloadStart
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FPSHand
+        weight: 1
+      - path: FPSHand/Gun
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber/InsertChamber_end
+        weight: 1
+      - path: FPSHand/Gun/Slide
+        weight: 1
+      - path: FPSHand/Gun/Slide/Slide_end
+        weight: 1
+      - path: FPSHand/ik_l_001
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l/index_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l/middle_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l/pinky_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l/ring_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l/thumb_03_l_end
+        weight: 1
+      - path: FPSHand/ik_r_001
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r/index_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r/middle_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r/pinky_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r/ring_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r/thumb_03_r_end
+        weight: 1
+      - path: FPSHand/Trigger
+        weight: 1
+      - path: FPSHand/Trigger/Trigger_end
+        weight: 1
+      - path: FPSHand/upperarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l/lowerarm_l_end
+        weight: 1
+      - path: FPSHand/upperarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r/lowerarm_r_end
+        weight: 1
+      - path: Hands2
+        weight: 1
+      - path: M870
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FPSHand|ReloadStartEmpty
+      takeName: FPSHand|ReloadStartEmpty
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.4564103
+        functionName: OnAmmoInsertion
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.8769231
+        functionName: OnPump
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9974359
+        functionName: OnFirstAmmoInsert
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FPSHand
+        weight: 1
+      - path: FPSHand/Gun
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber/InsertChamber_end
+        weight: 1
+      - path: FPSHand/Gun/Slide
+        weight: 1
+      - path: FPSHand/Gun/Slide/Slide_end
+        weight: 1
+      - path: FPSHand/ik_l_001
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l/index_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l/middle_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l/pinky_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l/ring_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l/thumb_03_l_end
+        weight: 1
+      - path: FPSHand/ik_r_001
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r/index_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r/middle_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r/pinky_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r/ring_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r/thumb_03_r_end
+        weight: 1
+      - path: FPSHand/Trigger
+        weight: 1
+      - path: FPSHand/Trigger/Trigger_end
+        weight: 1
+      - path: FPSHand/upperarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l/lowerarm_l_end
+        weight: 1
+      - path: FPSHand/upperarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r/lowerarm_r_end
+        weight: 1
+      - path: Hands2
+        weight: 1
+      - path: M870
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FPSHand|Stand
+      takeName: FPSHand|Stand
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FPSHand
+        weight: 1
+      - path: FPSHand/Gun
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber
+        weight: 1
+      - path: FPSHand/Gun/InsertChamber/InsertChamber_end
+        weight: 1
+      - path: FPSHand/Gun/Slide
+        weight: 1
+      - path: FPSHand/Gun/Slide/Slide_end
+        weight: 1
+      - path: FPSHand/ik_l_001
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/index_01_l/index_02_l/index_03_l/index_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/middle_01_l/middle_02_l/middle_03_l/middle_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/pinky_01_l/pinky_02_l/pinky_03_l/pinky_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/ring_01_l/ring_02_l/ring_03_l/ring_03_l_end
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l
+        weight: 1
+      - path: FPSHand/ik_l_001/hand_l/thumb_01_l/thumb_02_l/thumb_03_l/thumb_03_l_end
+        weight: 1
+      - path: FPSHand/ik_r_001
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/index_01_r/index_02_r/index_03_r/index_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/middle_01_r/middle_02_r/middle_03_r/middle_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/pinky_01_r/pinky_02_r/pinky_03_r/pinky_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/ring_01_r/ring_02_r/ring_03_r/ring_03_r_end
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
+        weight: 1
+      - path: FPSHand/ik_r_001/hand_r/thumb_01_r/thumb_02_r/thumb_03_r/thumb_03_r_end
+        weight: 1
+      - path: FPSHand/Trigger
+        weight: 1
+      - path: FPSHand/Trigger/Trigger_end
+        weight: 1
+      - path: FPSHand/upperarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l
+        weight: 1
+      - path: FPSHand/upperarm_l/lowerarm_l/lowerarm_l_end
+        weight: 1
+      - path: FPSHand/upperarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r
+        weight: 1
+      - path: FPSHand/upperarm_r/lowerarm_r/lowerarm_r_end
+        weight: 1
+      - path: Hands2
+        weight: 1
+      - path: M870
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
